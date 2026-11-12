@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 country,titles
 United States,3240
 India,1056
@@ -19,3 +20,26 @@ China,100
 Brazil,88
 Taiwan,86
 Indonesia,86
+=======
+country,titles
+United States,3240
+India,1056
+United Kingdom,638
+Pakistan,420
+Not Given,287
+Canada,271
+Japan,259
+South Korea,214
+France,213
+Spain,182
+Mexico,138
+Egypt,123
+Australia,114
+Turkey,111
+Nigeria,105
+Germany,104
+China,100
+Brazil,88
+Taiwan,86
+Indonesia,86
+>>>>>>> b94782580f3390e4cc5ce371de590bd092d3f345

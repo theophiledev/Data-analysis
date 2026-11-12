@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 genre,Adults,Kids,Not Rated,Parental Guidance,Teens
 International Movies,1232,57,36,307,1119
 Dramas,1204,37,29,269,884
@@ -9,3 +10,16 @@ TV Dramas,434,9,1,49,268
 Independent Movies,539,5,17,41,153
 Children & Family Movies,1,331,0,280,29
 Romantic Movies,205,17,4,95,295
+=======
+genre,Adults,Kids,Not Rated,Parental Guidance,Teens
+International Movies,1232,57,36,307,1119
+Dramas,1204,37,29,269,884
+Comedies,613,112,15,301,632
+International TV Shows,715,27,2,134,470
+Documentaries,348,52,22,187,260
+Action & Adventure,421,2,10,65,361
+TV Dramas,434,9,1,49,268
+Independent Movies,539,5,17,41,153
+Children & Family Movies,1,331,0,280,29
+Romantic Movies,205,17,4,95,295
+>>>>>>> b94782580f3390e4cc5ce371de590bd092d3f345

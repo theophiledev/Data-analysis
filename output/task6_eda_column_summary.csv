@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Column,Type,Missing,Missing %,Unique values
 show_id,object,0,0.0,8790
 type,object,0,0.0,2
@@ -9,3 +10,16 @@ release_year,int64,0,0.0,74
 rating,object,0,0.0,14
 duration,object,0,0.0,220
 listed_in,object,0,0.0,513
+=======
+Column,Type,Missing,Missing %,Unique values
+show_id,object,0,0.0,8790
+type,object,0,0.0,2
+title,object,0,0.0,8787
+director,object,0,0.0,4528
+country,object,0,0.0,86
+date_added,object,0,0.0,1713
+release_year,int64,0,0.0,74
+rating,object,0,0.0,14
+duration,object,0,0.0,220
+listed_in,object,0,0.0,513
+>>>>>>> b94782580f3390e4cc5ce371de590bd092d3f345

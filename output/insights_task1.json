@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 [
   "The raw file had 8,790 rows and 0 empty cells.",
   "I removed 4 duplicate rows, so 8,786 unique titles remain.",
   "Empty cells in director, country, rating and duration: 0 before, 0 after cleaning.",
   "I added 4 new columns: audience, main_country, years_to_netflix, duration_number."
+=======
+[
+  "The raw file had 8,790 rows and 0 empty cells.",
+  "I removed 4 duplicate rows, so 8,786 unique titles remain.",
+  "Empty cells in director, country, rating and duration: 0 before, 0 after cleaning.",
+  "I added 4 new columns: audience, main_country, years_to_netflix, duration_number."
+>>>>>>> b94782580f3390e4cc5ce371de590bd092d3f345
 ]
