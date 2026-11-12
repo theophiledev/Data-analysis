@@ -32,3 +32,5 @@ Author: BENIMANA Theophile - BenTech Rwanda
 - `Netflix_Report.html` - report page for Tasks 1-5
 - `task6_dashboard1..4_*.png` and `task6_dashboard5_interactive.html` - Task 6 dashboards
 - `Netflix_Business_Insights_Report.html` - Task 6 executive report
+  ### VISIT THIS URL FOR REPORT AND RESULT SUMMARY DATA ANLAYISED
+  `https://theophiledev.github.io/Data-analysis/output/Netflix_Business_Insights_Report.html`
